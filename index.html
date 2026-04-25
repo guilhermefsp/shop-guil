@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recomendações — Guilherme</title>
+<meta name="description" content="Produtos que uso e recomendo, com links de afiliado Amazon.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 60'><rect x='2' y='2' width='56' height='56' rx='12' fill='%230fb6d6'/><circle cx='18' cy='18' r='5' fill='white' opacity='.9'/><circle cx='42' cy='18' r='5' fill='white' opacity='.9'/><circle cx='30' cy='30' r='5' fill='white' opacity='.9'/><circle cx='18' cy='42' r='5' fill='white' opacity='.9'/><circle cx='42' cy='42' r='5' fill='white' opacity='.9'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Obsidianite palette — https://github.com/bennyxguo/Obsidian-Obsidianite */
+:root {
+  --bg:          #100e17;
+  --bg-alt:      #0d0b12;
+  --surface:     #191621;
+  --surface2:    #131118;
+  --card:        #191621;
+  --card-hover:  #1e1b29;
+  --border:      rgba(14, 210, 247, 0.07);
+  --border2:     rgba(14, 210, 247, 0.18);
+  --accent:      #0fb6d6;
+  --accent-glow: rgba(14, 210, 247, 0.15);
+  --accent-tag:  rgba(14, 210, 247, 0.12);
+  --pink:        #f4569d;
+  --text:        #bebebe;
+  --text-h:      #cbdbe5;
+  --text-muted:  #5e5c70;
+  --text-dim:    #302e3e;
+  --price:       #45aaff;
+}
+
+body {
+  font-family: 'Rubik', -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ── Header ── */
+header {
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  padding: 0.9rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.logo-icon {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.05rem;
+}
+
+.logo-text h1 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+
+.logo-text p {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+/* ── Filter + Sort bar ── */
+.filter-wrap {
+  background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 53px;
+  z-index: 90;
+}
+
+.filter-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0.55rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.filter-bar {
+  display: flex;
+  gap: 0.35rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  flex: 1;
+}
+
+.filter-bar::-webkit-scrollbar { display: none; }
+
+.filter-btn {
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.27rem 0.8rem;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.12s, border-color 0.12s, background 0.12s;
+  flex-shrink: 0;
+}
+
+.filter-btn:hover {
+  border-color: rgba(14, 210, 247, 0.3);
+  color: var(--text);
+}
+
+.filter-btn.active {
+  background: var(--accent-tag);
+  border-color: rgba(14, 210, 247, 0.4);
+  color: var(--accent);
+}
+
+/* ── Sort select ── */
+.sort-wrap {
+  flex-shrink: 0;
+  border-left: 1px solid var(--border);
+  padding-left: 0.75rem;
+}
+
+.sort-select {
+  appearance: none;
+  -webkit-appearance: none;
+  background-color: transparent;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M0 0L5 6L10 0' fill='none' stroke='%235e5c70' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.45rem center;
+  background-size: 8px;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  color: var(--text-muted);
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.27rem 1.6rem 0.27rem 0.55rem;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.12s, color 0.12s;
+}
+
+.sort-select:hover,
+.sort-select:focus {
+  border-color: rgba(14, 210, 247, 0.3);
+  color: var(--text);
+}
+
+.sort-select option {
+  background: #191621;
+  color: #bebebe;
+}
+
+/* ── Main content ── */
+.content {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 4rem;
+}
+
+/* ── Category section ── */
+.category-section { margin-bottom: 2.75rem; }
+
+.category-header { margin-bottom: 0.9rem; }
+
+.category-name {
+  font-size: 0.67rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  padding-left: 0.6rem;
+  border-left: 2px solid var(--accent);
+  display: inline-block;
+  line-height: 1.2;
+}
+
+/* ── Product grid ── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.65rem;
+}
+
+@media (min-width: 480px) {
+  .grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 768px) {
+  .grid { grid-template-columns: repeat(4, 1fr); gap: 0.85rem; }
+}
+
+@media (min-width: 1200px) {
+  .grid { grid-template-columns: repeat(5, 1fr); }
+}
+
+/* ── Product card ── */
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  overflow: hidden;
+  transition: background 0.15s, border-color 0.15s;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  background: var(--card-hover);
+  border-color: var(--border2);
+}
+
+.card a {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-img {
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: var(--surface2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0.5rem;
+  transition: opacity 0.2s;
+}
+
+.card:hover .card-img img { opacity: 0.85; }
+
+.card-body {
+  padding: 0.65rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 0.4rem;
+}
+
+.card-title {
+  font-size: 0.76rem;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+
+.card:hover .card-title { color: var(--text-h); }
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+  margin-top: auto;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--border);
+}
+
+.price {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--price);
+  white-space: nowrap;
+}
+
+.price-empty {
+  font-size: 0.7rem;
+  color: var(--text-dim);
+}
+
+.buy-btn {
+  font-size: 0.65rem;
+  font-weight: 500;
+  padding: 0.25rem 0.6rem;
+  border-radius: 3px;
+  background: var(--accent-tag);
+  color: var(--accent);
+  border: 1px solid rgba(14, 210, 247, 0.25);
+  white-space: nowrap;
+  transition: background 0.12s, border-color 0.12s;
+  flex-shrink: 0;
+}
+
+.card:hover .buy-btn {
+  background: rgba(14, 210, 247, 0.2);
+  border-color: rgba(14, 210, 247, 0.4);
+}
+
+/* ── Empty state ── */
+.empty {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--text-muted);
+}
+
+.empty p { font-size: 0.82rem; }
+
+/* ── Footer ── */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  opacity: 0.5;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <svg class="logo-icon" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+      <rect x="2" y="2" width="56" height="56" rx="12" fill="#0fb6d6" fill-opacity=".15"/>
+      <rect x="2" y="2" width="56" height="56" rx="12" fill="none" stroke="#0fb6d6" stroke-width="2" stroke-opacity=".6"/>
+      <circle cx="18" cy="18" r="5" fill="#0fb6d6" opacity=".8"/>
+      <circle cx="42" cy="18" r="5" fill="#0fb6d6" opacity=".8"/>
+      <circle cx="30" cy="30" r="5" fill="#0fb6d6" opacity=".8"/>
+      <circle cx="18" cy="42" r="5" fill="#0fb6d6" opacity=".8"/>
+      <circle cx="42" cy="42" r="5" fill="#0fb6d6" opacity=".8"/>
+    </svg>
+    <div class="logo-text">
+      <h1>Recomendações</h1>
+      <p>por Guilherme &nbsp;·&nbsp; links de afiliado Amazon</p>
+    </div>
+  </div>
+</header>
+
+<div class="filter-wrap">
+  <div class="filter-inner">
+    <nav class="filter-bar" id="filter-bar" aria-label="Filtrar por categoria">
+      <!-- populated by JS -->
+    </nav>
+    <div class="sort-wrap">
+      <select class="sort-select" id="sort-select" aria-label="Ordenar por">
+        <option value="az">Nome A→Z</option>
+        <option value="za">Nome Z→A</option>
+        <option value="price-asc">Preço ↑</option>
+        <option value="price-desc">Preço ↓</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<main class="content" id="main"></main>
+
+<footer>
+  <p>Links de afiliado Amazon.com.br. Ao comprar através deles, você apoia o criador sem custo adicional.<br>
+  Preços e disponibilidade atualizados diariamente.</p>
+</footer>
+
+<script src="data.js"></script>
+<script>
+(function () {
+  var PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80'%3E%3Crect width='80' height='80' fill='%23131118'/%3E%3Ctext x='40' y='46' text-anchor='middle' font-size='24' fill='%23302e3e'%3E%3F%3C/text%3E%3C/svg%3E";
+  var currentSort   = 'az';
+  var currentFilter = 'all';
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function parsePrice(str) {
+    if (!str) return null;
+    var n = parseFloat(str.replace(/[^\d,]/g, '').replace(',', '.'));
+    return isNaN(n) ? null : n;
+  }
+
+  function sortItems(items) {
+    var sorted = items.slice();
+    switch (currentSort) {
+      case 'az':
+        sorted.sort(function (a, b) {
+          return (a.title || '').localeCompare(b.title || '', 'pt-BR');
+        });
+        break;
+      case 'za':
+        sorted.sort(function (a, b) {
+          return (b.title || '').localeCompare(a.title || '', 'pt-BR');
+        });
+        break;
+      case 'price-asc':
+        sorted.sort(function (a, b) {
+          var pa = parsePrice(a.price), pb = parsePrice(b.price);
+          if (pa === null && pb === null) return 0;
+          if (pa === null) return 1;
+          if (pb === null) return -1;
+          return pa - pb;
+        });
+        break;
+      case 'price-desc':
+        sorted.sort(function (a, b) {
+          var pa = parsePrice(a.price), pb = parsePrice(b.price);
+          if (pa === null && pb === null) return 0;
+          if (pa === null) return 1;
+          if (pb === null) return -1;
+          return pb - pa;
+        });
+        break;
+    }
+    return sorted;
+  }
+
+  function getSortedCategories() {
+    var seen = {}, cats = [];
+    for (var i = 0; i < ITEMS.length; i++) {
+      var cat = ITEMS[i].category || 'Outros';
+      if (!seen[cat]) { seen[cat] = true; cats.push(cat); }
+    }
+    var regular = cats.filter(function (c) { return c !== 'Outros'; });
+    var outros   = cats.filter(function (c) { return c === 'Outros'; });
+    regular.sort(function (a, b) { return a.localeCompare(b, 'pt-BR'); });
+    return regular.concat(outros);
+  }
+
+  function renderCard(item) {
+    var title = escapeHtml(item.title || 'Sem título');
+    var img   = escapeHtml(item.image || '');
+    var url   = escapeHtml(item.affiliate_url || '#');
+    var price = item.price
+      ? '<span class="price">' + escapeHtml(item.price) + '</span>'
+      : '<span class="price-empty">Consulte</span>';
+    return (
+      '<div class="card">' +
+        '<a href="' + url + '" target="_blank" rel="noopener noreferrer">' +
+          '<div class="card-img">' +
+            '<img src="' + img + '" alt="' + title + '" loading="lazy"' +
+            ' onerror="this.onerror=null;this.src=\'' + PLACEHOLDER + '\'">' +
+          '</div>' +
+          '<div class="card-body">' +
+            '<p class="card-title">' + title + '</p>' +
+            '<div class="card-footer">' +
+              price +
+              '<span class="buy-btn">Comprar</span>' +
+            '</div>' +
+          '</div>' +
+        '</a>' +
+      '</div>'
+    );
+  }
+
+  function renderSection(cat, items) {
+    if (!items.length) return '';
+    return (
+      '<section class="category-section">' +
+        '<div class="category-header">' +
+          '<span class="category-name">' + escapeHtml(cat) + '</span>' +
+        '</div>' +
+        '<div class="grid">' + items.map(renderCard).join('') + '</div>' +
+      '</section>'
+    );
+  }
+
+  function render(active) {
+    var main = document.getElementById('main');
+    if (!ITEMS || !ITEMS.length) {
+      main.innerHTML = '<div class="empty"><p>Nenhum produto encontrado.</p></div>';
+      return;
+    }
+
+    if (active === 'all') {
+      var cats = getSortedCategories();
+      main.innerHTML = cats.map(function (cat) {
+        var catItems = ITEMS.filter(function (i) {
+          return (i.category || 'Outros') === cat;
+        });
+        return renderSection(cat, sortItems(catItems));
+      }).join('');
+    } else {
+      var filtered = sortItems(ITEMS.filter(function (i) {
+        return (i.category || 'Outros') === active;
+      }));
+      main.innerHTML = filtered.length
+        ? '<div class="grid">' + filtered.map(renderCard).join('') + '</div>'
+        : '<div class="empty"><p>Nenhum produto nesta categoria.</p></div>';
+    }
+  }
+
+  function setFilter(cat) {
+    currentFilter = cat;
+    document.querySelectorAll('.filter-btn').forEach(function (btn) {
+      btn.classList.toggle('active', btn.dataset.cat === cat);
+    });
+    render(cat);
+  }
+
+  function init() {
+    if (typeof ITEMS === 'undefined') {
+      document.getElementById('main').innerHTML =
+        '<div class="empty"><p>Execute scrape.py para gerar os dados.</p></div>';
+      return;
+    }
+
+    var bar     = document.getElementById('filter-bar');
+    var sortSel = document.getElementById('sort-select');
+    var cats    = getSortedCategories();
+
+    var html = '<button class="filter-btn active" data-cat="all">Todos</button>';
+    cats.forEach(function (cat) {
+      html += '<button class="filter-btn" data-cat="' + escapeHtml(cat) + '">' +
+                escapeHtml(cat) + '</button>';
+    });
+    bar.innerHTML = html;
+
+    bar.addEventListener('click', function (e) {
+      var btn = e.target.closest('.filter-btn');
+      if (btn) setFilter(btn.dataset.cat);
+    });
+
+    sortSel.addEventListener('change', function () {
+      currentSort = sortSel.value;
+      render(currentFilter);
+    });
+
+    render('all');
+  }
+
+  init();
+})();
+</script>
+</body>
+</html>
