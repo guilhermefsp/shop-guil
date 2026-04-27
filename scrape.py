@@ -17,7 +17,8 @@ import sys
 from datetime import date
 from pathlib import Path
 
-import httpx
+import firebase_admin
+from firebase_admin import credentials, db as rtdb
 from playwright.async_api import async_playwright
 
 WISHLIST_URL  = "https://www.amazon.com.br/hz/wishlist/ls/2HZT8IDK09OSC"
@@ -276,18 +277,19 @@ def write_outputs(items: list[dict]) -> None:
     )
     print(f"Saved history  → {history_path}")
 
-    # Push history to Firebase
-    if FIREBASE_URL:
+    # Push history to Firebase via Admin SDK (bypasses security rules)
+    cred_path = HERE / "service-account.json"
+    if FIREBASE_URL and cred_path.exists():
         try:
-            r = httpx.put(
-                FIREBASE_URL.rstrip("/") + "/items.json",
-                content=json.dumps(history, ensure_ascii=False).encode(),
-                headers={"Content-Type": "application/json"},
-                timeout=15,
-            )
-            print(f"Firebase sync  → HTTP {r.status_code}")
+            if not firebase_admin._apps:
+                cred = credentials.Certificate(str(cred_path))
+                firebase_admin.initialize_app(cred, {"databaseURL": FIREBASE_URL})
+            rtdb.reference("/items").set(history)
+            print("Firebase sync  → OK")
         except Exception as e:
             print(f"Firebase sync failed: {e}", file=sys.stderr)
+    elif not cred_path.exists():
+        print("Firebase sync  → skipped (service-account.json not found)")
 
     # Write items.json
     json_path = HERE / "items.json"
