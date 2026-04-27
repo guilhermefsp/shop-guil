@@ -21,7 +21,7 @@ import firebase_admin
 from firebase_admin import credentials, db as rtdb
 from playwright.async_api import async_playwright
 
-WISHLIST_URL  = "https://www.amazon.com.br/hz/wishlist/ls/2HZT8IDK09OSC"
+WISHLIST_URL  = "https://www.amazon.com.br/hz/wishlist/ls/J9PS9R9HDC5M"
 ASSOCIATE_TAG = "guilhermefsp-20"
 FIREBASE_URL  = "https://guil-default-rtdb-default-rtdb.firebaseio.com"
 HERE = Path(__file__).parent
