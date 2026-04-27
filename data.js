@@ -121,7 +121,7 @@ const ITEMS = [
     "title": "AEG Ready Set Bet | Head Off to The Races | Betting & Bluffing | Real-Time Dice Rolling Party Game | Simultaneous Play | 2-6 Players | Ages 10+",
     "asin": "B09YBXXVLQ",
     "image": "https://m.media-amazon.com/images/I/51i-0stnNNL._SS135_.jpg",
-    "price": "R$ 357,29",
+    "price": "R$ 366,33",
     "category": "Jogos e Acessórios",
     "affiliate_url": "https://www.amazon.com.br/dp/B09YBXXVLQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
