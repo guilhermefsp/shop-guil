@@ -220,6 +220,13 @@ header {
   .grid { grid-template-columns: repeat(5, 1fr); }
 }
 
+/* ── Card wrapper (for tooltip positioning) ── */
+.card-wrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
 /* ── Product card ── */
 .card {
   background: var(--card);
@@ -229,6 +236,7 @@ header {
   transition: background 0.15s, border-color 0.15s;
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .card:hover {
@@ -285,6 +293,19 @@ header {
 
 .card:hover .card-title { color: var(--text-h); }
 
+/* ── Category tag on card ── */
+.category-tag {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.45rem;
+  border-radius: 3px;
+  display: inline-block;
+  line-height: 1.4;
+  align-self: flex-start;
+}
+
 .card-footer {
   display: flex;
   align-items: center;
@@ -324,6 +345,40 @@ header {
   background: rgba(14, 210, 247, 0.2);
   border-color: rgba(14, 210, 247, 0.4);
 }
+
+/* ── Price history tooltip ── */
+.price-tooltip {
+  position: absolute;
+  bottom: calc(100% + 7px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-alt);
+  border: 1px solid var(--border2);
+  border-radius: 5px;
+  padding: 0.55rem 0.75rem;
+  font-size: 0.68rem;
+  color: var(--text);
+  white-space: nowrap;
+  z-index: 300;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  min-width: 170px;
+}
+
+.card-wrap:hover .price-tooltip { opacity: 1; }
+
+.tip-row {
+  display: flex;
+  gap: 0.35rem;
+  align-items: baseline;
+  line-height: 1.7;
+}
+
+.tip-label { color: var(--text-muted); }
+.tip-val   { color: var(--price); font-weight: 600; }
+.tip-dim   { color: var(--text-muted); font-size: 0.63rem; }
 
 /* ── Empty state ── */
 .empty {
@@ -373,6 +428,7 @@ footer {
     </nav>
     <div class="sort-wrap">
       <select class="sort-select" id="sort-select" aria-label="Ordenar por">
+        <option value="date-new">Adicionado ↓</option>
         <option value="az">Nome A→Z</option>
         <option value="za">Nome Z→A</option>
         <option value="price-asc">Preço ↑</option>
@@ -392,9 +448,19 @@ footer {
 <script src="data.js"></script>
 <script>
 (function () {
-  var PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80'%3E%3Crect width='80' height='80' fill='%23131118'/%3E%3Ctext x='40' y='46' text-anchor='middle' font-size='24' fill='%23302e3e'%3E%3F%3C/text%3E%3C/svg%3E";
-  var currentSort   = 'az';
-  var currentFilter = 'all';
+  var FIREBASE_URL   = 'https://guil-default-rtdb-default-rtdb.firebaseio.com';
+  var PLACEHOLDER    = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80'%3E%3Crect width='80' height='80' fill='%23131118'/%3E%3Ctext x='40' y='46' text-anchor='middle' font-size='24' fill='%23302e3e'%3E%3F%3C/text%3E%3C/svg%3E";
+  var currentSort    = 'date-new';
+  var selectedCats   = new Set();
+  var priceData      = {};
+
+  var CAT_COLORS = {
+    'Jogos e Acessórios': { color: '#bd93f9', bg: 'rgba(189,147,249,0.12)' },
+    'Tecnologia':         { color: '#45aaff', bg: 'rgba(69,170,255,0.12)'  },
+    'Casa':               { color: '#17b978', bg: 'rgba(23,185,120,0.12)'  },
+    'Olívia':             { color: '#f4569d', bg: 'rgba(244,86,157,0.12)'  },
+    'Outros':             { color: '#5e5c70', bg: 'rgba(94,92,112,0.12)'   },
+  };
 
   function escapeHtml(s) {
     return String(s)
@@ -408,9 +474,20 @@ footer {
     return isNaN(n) ? null : n;
   }
 
+  function fmtPrice(val) {
+    return 'R$ ' + val.toFixed(2).replace('.', ',');
+  }
+
   function sortItems(items) {
     var sorted = items.slice();
     switch (currentSort) {
+      case 'date-new':
+        sorted.sort(function (a, b) {
+          var da = a.date_added || '0000-00-00';
+          var db = b.date_added || '0000-00-00';
+          return db.localeCompare(da);
+        });
+        break;
       case 'az':
         sorted.sort(function (a, b) {
           return (a.title || '').localeCompare(b.title || '', 'pt-BR');
@@ -455,28 +532,82 @@ footer {
     return regular.concat(outros);
   }
 
+  function renderCategoryTag(cat) {
+    var c = CAT_COLORS[cat] || CAT_COLORS['Outros'];
+    return (
+      '<span class="category-tag" style="color:' + c.color + ';background:' + c.bg + '">' +
+        escapeHtml(cat) +
+      '</span>'
+    );
+  }
+
+  function renderTooltip(item) {
+    var asin = item.asin || '';
+    var data = priceData[asin];
+
+    var daysHtml = '';
+    var firstSeen = (data && data.first_seen) || item.date_added;
+    if (firstSeen) {
+      var days = Math.floor((Date.now() - new Date(firstSeen).getTime()) / 86400000);
+      var daysLabel = days <= 0
+        ? 'recém adicionado'
+        : days === 1
+          ? '1 dia no wishlist'
+          : days + ' dias no wishlist';
+      daysHtml = '<div class="tip-row"><span class="tip-label">📅</span><span>' + daysLabel + '</span></div>';
+    }
+
+    var priceHtml = '';
+    var prices = (data && data.prices) ? data.prices : [];
+    if (prices.length > 0) {
+      var vals = prices
+        .map(function (e) { return e.p; })
+        .filter(function (p) { return typeof p === 'number' && !isNaN(p); });
+      if (vals.length > 0) {
+        var avg = vals.reduce(function (s, v) { return s + v; }, 0) / vals.length;
+        var max = Math.max.apply(null, vals);
+        var min = Math.min.apply(null, vals);
+        priceHtml =
+          '<div class="tip-row"><span class="tip-label">~ </span><span class="tip-val">' + fmtPrice(avg) + '</span><span class="tip-dim"> média</span></div>' +
+          '<div class="tip-row"><span class="tip-label">↑ </span><span class="tip-val">' + fmtPrice(max) + '</span><span class="tip-dim"> &nbsp;·&nbsp; </span><span class="tip-label">↓ </span><span class="tip-val">' + fmtPrice(min) + '</span></div>';
+      }
+    } else if (item.price) {
+      priceHtml = '<div class="tip-row"><span class="tip-dim">sem histórico ainda</span></div>';
+    }
+
+    if (!daysHtml && !priceHtml) return '';
+    return '<div class="price-tooltip">' + daysHtml + priceHtml + '</div>';
+  }
+
   function renderCard(item) {
-    var title = escapeHtml(item.title || 'Sem título');
-    var img   = escapeHtml(item.image || '');
-    var url   = escapeHtml(item.affiliate_url || '#');
-    var price = item.price
+    var title  = escapeHtml(item.title || 'Sem título');
+    var img    = escapeHtml(item.image || '');
+    var url    = escapeHtml(item.affiliate_url || '#');
+    var cat    = item.category || 'Outros';
+    var price  = item.price
       ? '<span class="price">' + escapeHtml(item.price) + '</span>'
       : '<span class="price-empty">Consulte</span>';
+    var catTag  = renderCategoryTag(cat);
+    var tooltip = renderTooltip(item);
     return (
-      '<div class="card">' +
-        '<a href="' + url + '" target="_blank" rel="noopener noreferrer">' +
-          '<div class="card-img">' +
-            '<img src="' + img + '" alt="' + title + '" loading="lazy"' +
-            ' onerror="this.onerror=null;this.src=\'' + PLACEHOLDER + '\'">' +
-          '</div>' +
-          '<div class="card-body">' +
-            '<p class="card-title">' + title + '</p>' +
-            '<div class="card-footer">' +
-              price +
-              '<span class="buy-btn">Comprar</span>' +
+      '<div class="card-wrap">' +
+        tooltip +
+        '<div class="card">' +
+          '<a href="' + url + '" target="_blank" rel="noopener noreferrer">' +
+            '<div class="card-img">' +
+              '<img src="' + img + '" alt="' + title + '" loading="lazy"' +
+              ' onerror="this.onerror=null;this.src=\'' + PLACEHOLDER + '\'">' +
             '</div>' +
-          '</div>' +
-        '</a>' +
+            '<div class="card-body">' +
+              '<p class="card-title">' + title + '</p>' +
+              catTag +
+              '<div class="card-footer">' +
+                price +
+                '<span class="buy-btn">Comprar</span>' +
+              '</div>' +
+            '</div>' +
+          '</a>' +
+        '</div>' +
       '</div>'
     );
   }
@@ -493,37 +624,52 @@ footer {
     );
   }
 
-  function render(active) {
+  function renderAll() {
     var main = document.getElementById('main');
     if (!ITEMS || !ITEMS.length) {
       main.innerHTML = '<div class="empty"><p>Nenhum produto encontrado.</p></div>';
       return;
     }
 
-    if (active === 'all') {
-      var cats = getSortedCategories();
-      main.innerHTML = cats.map(function (cat) {
-        var catItems = ITEMS.filter(function (i) {
-          return (i.category || 'Outros') === cat;
-        });
+    if (selectedCats.size === 0) {
+      // Flat grid — no section headers
+      main.innerHTML = '<div class="grid">' + sortItems(ITEMS).map(renderCard).join('') + '</div>';
+    } else {
+      // Sections per selected category
+      var cats = getSortedCategories().filter(function (c) { return selectedCats.has(c); });
+      var html = cats.map(function (cat) {
+        var catItems = ITEMS.filter(function (i) { return (i.category || 'Outros') === cat; });
         return renderSection(cat, sortItems(catItems));
       }).join('');
-    } else {
-      var filtered = sortItems(ITEMS.filter(function (i) {
-        return (i.category || 'Outros') === active;
-      }));
-      main.innerHTML = filtered.length
-        ? '<div class="grid">' + filtered.map(renderCard).join('') + '</div>'
-        : '<div class="empty"><p>Nenhum produto nesta categoria.</p></div>';
+      main.innerHTML = html || '<div class="empty"><p>Nenhum produto nesta categoria.</p></div>';
     }
   }
 
-  function setFilter(cat) {
-    currentFilter = cat;
+  function toggleCategory(cat) {
+    if (cat === 'all') {
+      selectedCats.clear();
+    } else {
+      if (selectedCats.has(cat)) selectedCats.delete(cat);
+      else selectedCats.add(cat);
+    }
     document.querySelectorAll('.filter-btn').forEach(function (btn) {
-      btn.classList.toggle('active', btn.dataset.cat === cat);
+      if (btn.dataset.cat === 'all') btn.classList.toggle('active', selectedCats.size === 0);
+      else btn.classList.toggle('active', selectedCats.has(btn.dataset.cat));
     });
-    render(cat);
+    renderAll();
+  }
+
+  function loadPriceData() {
+    if (!FIREBASE_URL) return;
+    fetch(FIREBASE_URL + '/items.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        if (data) {
+          priceData = data;
+          renderAll();
+        }
+      })
+      .catch(function () {});
   }
 
   function init() {
@@ -539,22 +685,22 @@ footer {
 
     var html = '<button class="filter-btn active" data-cat="all">Todos</button>';
     cats.forEach(function (cat) {
-      html += '<button class="filter-btn" data-cat="' + escapeHtml(cat) + '">' +
-                escapeHtml(cat) + '</button>';
+      html += '<button class="filter-btn" data-cat="' + escapeHtml(cat) + '">' + escapeHtml(cat) + '</button>';
     });
     bar.innerHTML = html;
 
     bar.addEventListener('click', function (e) {
       var btn = e.target.closest('.filter-btn');
-      if (btn) setFilter(btn.dataset.cat);
+      if (btn) toggleCategory(btn.dataset.cat);
     });
 
     sortSel.addEventListener('change', function () {
       currentSort = sortSel.value;
-      render(currentFilter);
+      renderAll();
     });
 
-    render('all');
+    renderAll();
+    loadPriceData();
   }
 
   init();
