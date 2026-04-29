@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 76,43",
+    "price": "R$ 76,42",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Kit de acessórios de atualização CFS oficial da série K1 da Creality, permite impressão 3D multicolorida com sistema de filamento CFS, compatível com impressoras 3D K1 Max, K1C, K1, K1 SE",
     "asin": "B0F7Y45353",
     "image": "https://m.media-amazon.com/images/I/41DUPb9RlgL._SS135_.jpg",
-    "price": "R$ 397,50",
+    "price": "R$ 397,20",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7Y45353/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
