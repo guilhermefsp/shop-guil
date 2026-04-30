@@ -12,4 +12,4 @@
 
 | Task | Command (from D:\The Brain) |
 |------|---------|
-| Run scraper | `uv run python raw/projects/shop-guil/scrape.py` |
+| Run scraper | `uv run python raw/projects/shop-guil/scrape.py` | 
