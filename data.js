@@ -40,7 +40,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 45,90",
+    "price": "R$ 42,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 79,90",
+    "price": "R$ 94,63",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 24,44",
+    "price": "R$ 42,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 76,42",
+    "price": "R$ 76,86",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Kit de acessórios de atualização CFS oficial da série K1 da Creality, permite impressão 3D multicolorida com sistema de filamento CFS, compatível com impressoras 3D K1 Max, K1C, K1, K1 SE",
     "asin": "B0F7Y45353",
     "image": "https://m.media-amazon.com/images/I/41DUPb9RlgL._SS135_.jpg",
-    "price": "R$ 397,20",
+    "price": "R$ 396,06",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7Y45353/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -256,7 +256,7 @@ const ITEMS = [
     "title": "Creality Kit de acessórios de atualização CFS oficial da série K1, atualize para impressão multicolorida conectando o sistema de filamento CFS, compatível com impressora 3D K1 Max, K1C, K1, K1 SE",
     "asin": "B0F13NWL4C",
     "image": "https://m.media-amazon.com/images/I/41iRqeEip+L._SS135_.jpg",
-    "price": "R$ 667,18",
+    "price": "R$ 671,28",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F13NWL4C/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -319,7 +319,7 @@ const ITEMS = [
     "title": "Colchão Queen Emma Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/31JFJTCSdlL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 1.798,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -337,7 +337,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 89,00",
+    "price": "R$ 88,30",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "Bomba Tira Leite Elétrica Solo™ Medela, bateria interna embutida com carregamento via USB, funil PersonalFit Flex™ e Tecnologia de Extração 2-Phase Expression",
     "asin": "B0CCDSZYMH",
     "image": "https://m.media-amazon.com/images/I/31yYT7awlEL._SS135_.jpg",
-    "price": "R$ 1.157,78",
+    "price": "R$ 946,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCDSZYMH/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 44,15",
+    "price": "R$ 43,80",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Roda Abdominal Muvin Basics – Roda Para Exercícios Abdominais - Equipamento Para Treinamento de Força no Abdômem - Treino Funcional – Exercícios – Academia - Crosstraning",
     "asin": "B07PJLK5TX",
     "image": "https://m.media-amazon.com/images/I/411ef0zA1NL._SS135_.jpg",
-    "price": "R$ 40,90",
+    "price": "R$ 35,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07PJLK5TX/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -562,7 +562,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 459,00",
+    "price": "R$ 465,50",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
