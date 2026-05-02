@@ -31,7 +31,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 20,60",
+    "price": "R$ 20,50",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -58,7 +58,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/414M0eNOGrS._SS135_.jpg",
-    "price": "R$ 30,49",
+    "price": "R$ 41,99",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Frescor Da Primavera 1.5L, Rende 6L, Perfume com Notas de Flores e Baunilha",
     "asin": "B08553P1JV",
     "image": "https://m.media-amazon.com/images/I/41-QCTb32uL._SS135_.jpg",
-    "price": "R$ 23,64",
+    "price": "R$ 29,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08553P1JV/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 118,00",
+    "price": "R$ 131,44",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 76,86",
+    "price": "R$ 77,21",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -274,7 +274,7 @@ const ITEMS = [
     "title": "BTF-LIGHTING RGBCCT 5 cores em 1 fita de LED 5050SMD RGBWW RGB + temperatura de cor regulável 2700K-6500K 5 metros 60 pixel/m 300LED IP30 DC24V PCB branco para decoração de casa (sem adaptador ou",
     "asin": "B0BBGGRGDL",
     "image": "https://m.media-amazon.com/images/I/41xp45jEKbL._SS135_.jpg",
-    "price": "R$ 223,75",
+    "price": "R$ 220,86",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBGGRGDL/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 83,90",
+    "price": "R$ 83,80",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -319,7 +319,7 @@ const ITEMS = [
     "title": "Kit de acessórios de atualização CFS oficial da série K1 da Creality, permite impressão 3D multicolorida com sistema de filamento CFS, compatível com impressoras 3D K1 Max, K1C, K1, K1 SE",
     "asin": "B0F7Y45353",
     "image": "https://m.media-amazon.com/images/I/41DUPb9RlgL._SS135_.jpg",
-    "price": "R$ 391,45",
+    "price": "R$ 392,55",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7Y45353/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "THIRDREALITY Pacote com 4 luzes noturnas multifuncionais, repetidor Zigbee, 3 em 1 combina um sensor de movimento, um sensor de iluminação e luz noturna colorida RGB, brilho 1-100% ajustável, hub",
     "asin": "B0CX1G833P",
     "image": "https://m.media-amazon.com/images/I/31LjtH2-qBL._SS135_.jpg",
-    "price": "R$ 944,61",
+    "price": "R$ 932,40",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX1G833P/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 87,61",
+    "price": "R$ 75,05",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -436,7 +436,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 158,12",
+    "price": "R$ 156,20",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 122,31",
+    "price": "R$ 120,73",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -508,7 +508,7 @@ const ITEMS = [
     "title": "Barfly Jigger estilo japonês, 28 g x 56 g, inoxidável",
     "asin": "B074HNXRZP",
     "image": "https://m.media-amazon.com/images/I/41jLcuqpxfL._SS135_.jpg",
-    "price": "R$ 77,42",
+    "price": "R$ 76,82",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B074HNXRZP/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -634,7 +634,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 475,94",
+    "price": "R$ 486,11",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
