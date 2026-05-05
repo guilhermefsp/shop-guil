@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 74,98",
+    "price": "R$ 74,80",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -256,7 +256,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "R$ 989,99",
+    "price": "R$ 959,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -310,7 +310,7 @@ const ITEMS = [
     "title": "Kit de acessórios de atualização CFS oficial da série K1 da Creality, permite impressão 3D multicolorida com sistema de filamento CFS, compatível com impressoras 3D K1 Max, K1C, K1, K1 SE",
     "asin": "B0F7Y45353",
     "image": "https://m.media-amazon.com/images/I/41DUPb9RlgL._SS135_.jpg",
-    "price": "R$ 392,28",
+    "price": "",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F7Y45353/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -319,7 +319,7 @@ const ITEMS = [
     "title": "Creality Kit de acessórios de atualização CFS oficial da série K1, atualize para impressão multicolorida conectando o sistema de filamento CFS, compatível com impressora 3D K1 Max, K1C, K1, K1 SE",
     "asin": "B0F13NWL4C",
     "image": "https://m.media-amazon.com/images/I/41iRqeEip+L._SS135_.jpg",
-    "price": "R$ 671,28",
+    "price": "R$ 661,27",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F13NWL4C/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "Luminária Inteligente 18W 3000-6500K Wifi Elgin Quadrada de Embutir compatível com Alexa e Google Home",
     "asin": "B08TQGGTCC",
     "image": "https://m.media-amazon.com/images/I/31DeXLj-wuL._SS135_.jpg",
-    "price": "R$ 98,74",
+    "price": "R$ 87,59",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B08TQGGTCC/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -400,7 +400,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 74,71",
+    "price": "R$ 71,71",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -427,7 +427,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 156,20",
+    "price": "R$ 138,06",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -580,7 +580,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 265,90",
+    "price": "R$ 157,92",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -625,7 +625,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 486,11",
+    "price": "R$ 464,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
