@@ -22,7 +22,7 @@ const ITEMS = [
     "title": "Seagers Gin Negroni 980Ml",
     "asin": "B07XS7S64S",
     "image": "https://m.media-amazon.com/images/I/31epr-JQukL._SS135_.jpg",
-    "price": "R$ 53,50",
+    "price": "R$ 64,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS7S64S/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -31,7 +31,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 20,50",
+    "price": "R$ 20,08",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -49,7 +49,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 35,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -58,7 +58,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/414M0eNOGrS._SS135_.jpg",
-    "price": "R$ 30,19",
+    "price": "R$ 41,99",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -112,7 +112,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 47,44",
+    "price": "R$ 53,97",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 124,63",
+    "price": "R$ 125,96",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -166,7 +166,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 89,37",
+    "price": "R$ 91,47",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -193,7 +193,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 42,38",
+    "price": "R$ 49,37",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 42,00",
+    "price": "R$ 49,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -229,7 +229,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 39,60",
+    "price": "R$ 34,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Cabeça Refil Escova de Dente Elétrica Compátivel com Oral B - Kit com 4 unidades Branca - Cerdas Macias de Alta Perfomance Refil Kit",
     "asin": "B0GPRP7PZB",
     "image": "https://m.media-amazon.com/images/I/41qOKGwxIrL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 28,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPRP7PZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -274,7 +274,7 @@ const ITEMS = [
     "title": "BTF-LIGHTING RGBCCT 5 cores em 1 fita de LED 5050SMD RGBWW RGB + temperatura de cor regulável 2700K-6500K 5 metros 60 pixel/m 300LED IP30 DC24V PCB branco para decoração de casa (sem adaptador ou",
     "asin": "B0BBGGRGDL",
     "image": "https://m.media-amazon.com/images/I/41xp45jEKbL._SS135_.jpg",
-    "price": "R$ 218,16",
+    "price": "R$ 193,53",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBGGRGDL/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "THIRDREALITY Pacote com 4 luzes noturnas multifuncionais, repetidor Zigbee, 3 em 1 combina um sensor de movimento, um sensor de iluminação e luz noturna colorida RGB, brilho 1-100% ajustável, hub",
     "asin": "B0CX1G833P",
     "image": "https://m.media-amazon.com/images/I/31LjtH2-qBL._SS135_.jpg",
-    "price": "R$ 920,97",
+    "price": "R$ 886,47",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX1G833P/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -364,7 +364,7 @@ const ITEMS = [
     "title": "Luminária Inteligente 18W 3000-6500K Wifi Elgin Quadrada de Embutir compatível com Alexa e Google Home",
     "asin": "B08TQGGTCC",
     "image": "https://m.media-amazon.com/images/I/31DeXLj-wuL._SS135_.jpg",
-    "price": "R$ 87,59",
+    "price": "R$ 83,20",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B08TQGGTCC/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Colchão Queen Emma Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/31JFJTCSdlL._SS135_.jpg",
-    "price": "R$ 1.799,00",
+    "price": "R$ 1.800,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 69,39",
+    "price": "R$ 69,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -436,7 +436,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 138,06",
+    "price": "R$ 134,57",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 119,25",
+    "price": "R$ 122,06",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "Flash Limp Refil Microfibra Para Mop Flat Chenile Compatível Com Modelos (Ref.: Mop7633 Mop767) Rmop7633",
     "asin": "B078NDST2N",
     "image": "https://m.media-amazon.com/images/I/51EVazFdgpL._SS135_.jpg",
-    "price": "R$ 29,90",
+    "price": "R$ 27,35",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B078NDST2N/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -562,7 +562,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com cabo Telescópico - MOP7633",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 50,53",
+    "price": "R$ 60,69",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -589,7 +589,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 157,92",
+    "price": "R$ 199,43",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
