@@ -31,7 +31,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 20,06",
+    "price": "R$ 19,89",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -58,7 +58,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/414M0eNOGrS._SS135_.jpg",
-    "price": "R$ 41,99",
+    "price": "R$ 44,80",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -67,7 +67,7 @@ const ITEMS = [
     "title": "Percarbonato de Sódio Removedor de Manchas com Base de Percarbonato de Sódio e Multiuso de Limpeza Eficiente, Econômico Versátil para Lavanderia Limpeza Geral (Design Embalagem pode sofrer variações)",
     "asin": "B0GLHQDVYB",
     "image": "https://m.media-amazon.com/images/I/41ze0lQ8bAL._SS135_.jpg",
-    "price": "R$ 17,09",
+    "price": "R$ 24,90",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLHQDVYB/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -103,7 +103,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
     "asin": "B098CL79W1",
     "image": "https://m.media-amazon.com/images/I/41aOq1ltpDL._SS135_.jpg",
-    "price": "R$ 57,99",
+    "price": "R$ 74,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B098CL79W1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 131,44",
+    "price": "R$ 125,94",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 59,90",
+    "price": "R$ 62,87",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -265,7 +265,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "R$ 899,90",
+    "price": "R$ 989,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 84,90",
+    "price": "R$ 77,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -292,7 +292,7 @@ const ITEMS = [
     "title": "Ferramentas Madeira Construção Kits Infantil Montessori Brinquedos",
     "asin": "B0DJ57N1WS",
     "image": "https://m.media-amazon.com/images/I/41hVx1+osML._SS135_.jpg",
-    "price": "",
+    "price": "R$ 133,00",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ57N1WS/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Colchão Queen Emma Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/31JFJTCSdlL._SS135_.jpg",
-    "price": "R$ 1.800,00",
+    "price": "R$ 1.899,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 66,98",
+    "price": "R$ 75,12",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -442,7 +442,7 @@ const ITEMS = [
     "date_added": "2026-04-27"
   },
   {
-    "title": "ELEGOO Pacote Mercury Xs com Estação Separada de Lavagem E Cura para Grandes Modelos Impressos Em Resina 3D, Compatível com Impressoras 3D Saturn E Mars Lcd, com Uma Lâmpada UV Portátil",
+    "title": "ELEGOO Pacote Mercury XS com Estação Separada de Lavagem E Cura para Grandes Modelos Impressos Em Resina 3D, Compatível com Impressoras 3D Saturn E Mars Lcd, com Uma Lâmpada UV Portátil",
     "asin": "B09V19DDNJ",
     "image": "https://m.media-amazon.com/images/I/41gk8Hj44qL._SS135_.jpg",
     "price": "R$ 1.386,05",
@@ -562,7 +562,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com cabo Telescópico - MOP7633",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 54,23",
+    "price": "R$ 51,44",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
