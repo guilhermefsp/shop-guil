@@ -4,7 +4,7 @@ const ITEMS = [
     "title": "Philco, 103301040, Multiprocessador, Pmp1600v, 1400W, Vermelho, 127v,",
     "asin": "B07V68WPC9",
     "image": "https://m.media-amazon.com/images/I/41sGPniDSML._SS135_.jpg",
-    "price": "R$ 384,90",
+    "price": "R$ 547,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07V68WPC9/?tag=guilhermefsp-20",
     "date_added": "2026-05-07"
@@ -103,7 +103,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
     "asin": "B098CL79W1",
     "image": "https://m.media-amazon.com/images/I/41aOq1ltpDL._SS135_.jpg",
-    "price": "R$ 45,44",
+    "price": "R$ 74,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B098CL79W1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 124,86",
+    "price": "R$ 131,44",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -193,7 +193,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 45,96",
+    "price": "R$ 42,46",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Cabeça Refil Escova de Dente Elétrica Compátivel com Oral B - Kit com 4 unidades Branca - Cerdas Macias de Alta Perfomance Refil Kit",
     "asin": "B0GPRP7PZB",
     "image": "https://m.media-amazon.com/images/I/41qOKGwxIrL._SS135_.jpg",
-    "price": "R$ 30,90",
+    "price": "R$ 31,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GPRP7PZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -274,7 +274,7 @@ const ITEMS = [
     "title": "BTF-LIGHTING RGBCCT 5 cores em 1 fita de LED 5050SMD RGBWW RGB + temperatura de cor regulável 2700K-6500K 5 metros 60 pixel/m 300LED IP30 DC24V PCB branco para decoração de casa (sem adaptador ou",
     "asin": "B0BBGGRGDL",
     "image": "https://m.media-amazon.com/images/I/41xp45jEKbL._SS135_.jpg",
-    "price": "R$ 187,82",
+    "price": "R$ 185,29",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBGGRGDL/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 84,90",
+    "price": "R$ 60,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -337,7 +337,7 @@ const ITEMS = [
     "title": "Refletor LED Inteligente 50W Elgin RGB Smart Wifi compatível com Alexa e Google Home",
     "asin": "B09QCW73S5",
     "image": "https://m.media-amazon.com/images/I/31jcAaNKOqL._SS135_.jpg",
-    "price": "R$ 207,00",
+    "price": "",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09QCW73S5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "THIRDREALITY Pacote com 4 luzes noturnas multifuncionais, repetidor Zigbee, 3 em 1 combina um sensor de movimento, um sensor de iluminação e luz noturna colorida RGB, brilho 1-100% ajustável, hub",
     "asin": "B0CX1G833P",
     "image": "https://m.media-amazon.com/images/I/31LjtH2-qBL._SS135_.jpg",
-    "price": "R$ 893,35",
+    "price": "R$ 878,63",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX1G833P/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -436,7 +436,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 159,33",
+    "price": "R$ 157,30",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -463,7 +463,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 43,80",
+    "price": "R$ 32,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 123,30",
+    "price": "R$ 121,64",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -508,7 +508,7 @@ const ITEMS = [
     "title": "Barfly Jigger estilo japonês, 28 g x 56 g, inoxidável",
     "asin": "B074HNXRZP",
     "image": "https://m.media-amazon.com/images/I/41jLcuqpxfL._SS135_.jpg",
-    "price": "R$ 93,95",
+    "price": "R$ 93,59",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B074HNXRZP/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
