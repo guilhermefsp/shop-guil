@@ -22,7 +22,7 @@ const ITEMS = [
     "title": "Seagers Gin Negroni 980Ml",
     "asin": "B07XS7S64S",
     "image": "https://m.media-amazon.com/images/I/31epr-JQukL._SS135_.jpg",
-    "price": "R$ 64,90",
+    "price": "R$ 69,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS7S64S/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -31,7 +31,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 20,06",
+    "price": "R$ 20,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -49,7 +49,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "R$ 24,99",
+    "price": "R$ 22,70",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -400,7 +400,7 @@ const ITEMS = [
     "title": "Tomada De Parede Duo Com 2 Entradas Usb Bivolt Jwcom (Branco)",
     "asin": "B0B23B7ZCF",
     "image": "https://m.media-amazon.com/images/I/31zzrMcg4uL._SS135_.jpg",
-    "price": "R$ 29,89",
+    "price": "R$ 37,80",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B23B7ZCF/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -463,7 +463,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 43,80",
+    "price": "R$ 32,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -544,7 +544,7 @@ const ITEMS = [
     "title": "Kit com 3 Camisetas Proteção Solar Uv 50 Ice Tecido Gelado - Slim Fitness",
     "asin": "B08KSC4SL1",
     "image": "https://m.media-amazon.com/images/I/31SdhRFKEkL._SS135_.jpg",
-    "price": "R$ 141,90",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08KSC4SL1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -598,7 +598,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 4",
     "asin": "8565484734",
     "image": "https://m.media-amazon.com/images/I/51mASF9VkvL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 550,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8565484734/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
