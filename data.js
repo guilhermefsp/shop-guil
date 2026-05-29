@@ -121,7 +121,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 52,61",
+    "price": "R$ 53,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -139,7 +139,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 22,90",
+    "price": "R$ 20,60",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -166,7 +166,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 131,44",
+    "price": "R$ 111,09",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -175,7 +175,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 94,63",
+    "price": "R$ 91,91",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 49,37",
+    "price": "R$ 49,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -229,7 +229,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 91,73",
+    "price": "R$ 82,22",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -274,7 +274,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "R$ 899,90",
+    "price": "R$ 929,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -292,7 +292,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 77,00",
+    "price": "R$ 84,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -319,7 +319,7 @@ const ITEMS = [
     "title": "Puff Vira Cama Casal Para Descanso - Diversas Cores (Bege)",
     "asin": "B0DR9H2CXP",
     "image": "https://m.media-amazon.com/images/I/41hZzvEz5OL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 674,78",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DR9H2CXP/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -346,7 +346,7 @@ const ITEMS = [
     "title": "Refletor LED Inteligente 50W Elgin RGB Smart Wifi compatível com Alexa e Google Home",
     "asin": "B09QCW73S5",
     "image": "https://m.media-amazon.com/images/I/31jcAaNKOqL._SS135_.jpg",
-    "price": "R$ 207,00",
+    "price": "R$ 279,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09QCW73S5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -418,7 +418,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 71,22",
+    "price": "R$ 75,12",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
