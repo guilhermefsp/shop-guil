@@ -76,7 +76,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/416sJk3LOBL._SS135_.jpg",
-    "price": "R$ 29,72",
+    "price": "R$ 39,00",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 26,95",
+    "price": "R$ 36,37",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "R$ 1.098,00",
+    "price": "R$ 1.039,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -454,7 +454,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 158,88",
+    "price": "R$ 137,61",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "Fone de Ouvido Profissional K240 MKII Preto AKG",
     "asin": "B0016MNBAM",
     "image": "https://m.media-amazon.com/images/I/51jpzKr2yQL._SS135_.jpg",
-    "price": "R$ 489,00",
+    "price": "R$ 499,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0016MNBAM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 462,90",
+    "price": "R$ 440,67",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
