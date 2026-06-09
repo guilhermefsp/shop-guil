@@ -4,7 +4,7 @@ const ITEMS = [
     "title": "Kit Fita De Led Dual WI-FI Inteligente NovaDigital RGB 10Metros 5m + 5m Compativel Tuya Smart Life Alexa Google Smart",
     "asin": "B0DYF71T4M",
     "image": "https://m.media-amazon.com/images/I/413fKyH6lyL._SS135_.jpg",
-    "price": "R$ 128,00",
+    "price": "R$ 125,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYF71T4M/?tag=guilhermefsp-20",
     "date_added": "2026-06-03"
@@ -40,7 +40,7 @@ const ITEMS = [
     "title": "Seagers Gin Negroni 980Ml",
     "asin": "B07XS7S64S",
     "image": "https://m.media-amazon.com/images/I/31epr-JQukL._SS135_.jpg",
-    "price": "R$ 78,90",
+    "price": "R$ 53,50",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS7S64S/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 36,37",
+    "price": "R$ 28,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -121,7 +121,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
     "asin": "B098CL79W1",
     "image": "https://m.media-amazon.com/images/I/41aOq1ltpDL._SS135_.jpg",
-    "price": "R$ 49,90",
+    "price": "R$ 69,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B098CL79W1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 25,99",
+    "price": "R$ 29,99",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -166,7 +166,7 @@ const ITEMS = [
     "title": "Arak Habitue Aperitivo 700Ml",
     "asin": "B07W71P4R3",
     "image": "https://m.media-amazon.com/images/I/31cSFGIdTHS._SS135_.jpg",
-    "price": "R$ 62,97",
+    "price": "R$ 52,50",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07W71P4R3/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -184,7 +184,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 94,33",
+    "price": "R$ 96,87",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Condicionador Aussie Btx Effect Óleo De Jojoba 360 ml",
     "asin": "B09L3539XW",
     "image": "https://m.media-amazon.com/images/I/31yOQGgaN4L._SS135_.jpg",
-    "price": "R$ 34,63",
+    "price": "R$ 34,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09L3539XW/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 51,00",
+    "price": "R$ 49,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 56,91",
+    "price": "R$ 55,18",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 39,89",
+    "price": "R$ 34,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -427,7 +427,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 77,00",
+    "price": "R$ 97,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -454,7 +454,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 157,72",
+    "price": "R$ 157,95",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Tramontina Foicinha Para Pasto, Cabo De Madeira 13 Cm",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "R$ 27,67",
+    "price": "R$ 44,93",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "Fone de Ouvido Profissional K240 MKII Preto AKG",
     "asin": "B0016MNBAM",
     "image": "https://m.media-amazon.com/images/I/51jpzKr2yQL._SS135_.jpg",
-    "price": "R$ 489,00",
+    "price": "R$ 487,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0016MNBAM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -562,7 +562,7 @@ const ITEMS = [
     "title": "Kit com 3 Camisetas Proteção Solar Uv 50 Ice Tecido Gelado - Slim Fitness",
     "asin": "B08KSC4SL1",
     "image": "https://m.media-amazon.com/images/I/31SdhRFKEkL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 141,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08KSC4SL1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 447,79",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
