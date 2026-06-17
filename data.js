@@ -49,7 +49,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 19,89",
+    "price": "R$ 19,85",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -121,7 +121,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
     "asin": "B098CL79W1",
     "image": "https://m.media-amazon.com/images/I/41aOq1ltpDL._SS135_.jpg",
-    "price": "R$ 66,90",
+    "price": "R$ 69,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B098CL79W1/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 20,60",
+    "price": "R$ 21,59",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -175,7 +175,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 111,09",
+    "price": "R$ 122,11",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 45,50",
+    "price": "R$ 51,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 34,90",
+    "price": "R$ 34,85",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -256,7 +256,7 @@ const ITEMS = [
     "title": "A & D Diaper Rash Ointment 4 oz. (Pack of 2)",
     "asin": "B00DQD63NG",
     "image": "https://m.media-amazon.com/images/I/31gTT-yPeqL._SS135_.jpg",
-    "price": "R$ 289,00",
+    "price": "R$ 269,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B00DQD63NG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -274,7 +274,7 @@ const ITEMS = [
     "title": "LEGO® Creator 3 em 1 – Dragão Vermelho Criaturas Mitológicas Seres Místicos 31145",
     "asin": "B0CGY9Q4ZW",
     "image": "https://m.media-amazon.com/images/I/41iv003et9L._SS135_.jpg",
-    "price": "",
+    "price": "R$ 89,77",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CGY9Q4ZW/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -454,7 +454,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 119,42",
+    "price": "R$ 160,40",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -526,7 +526,7 @@ const ITEMS = [
     "title": "Barfly Jigger estilo japonês, 28 g x 56 g, inoxidável",
     "asin": "B074HNXRZP",
     "image": "https://m.media-amazon.com/images/I/41jLcuqpxfL._SS135_.jpg",
-    "price": "R$ 94,61",
+    "price": "R$ 94,21",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B074HNXRZP/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -571,7 +571,7 @@ const ITEMS = [
     "title": "Flash Limp Refil Microfibra Para Mop Flat Chenile Compatível Com Modelos (Ref.: Mop7633 Mop767) Rmop7633",
     "asin": "B078NDST2N",
     "image": "https://m.media-amazon.com/images/I/51EVazFdgpL._SS135_.jpg",
-    "price": "R$ 27,35",
+    "price": "R$ 29,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B078NDST2N/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 475,00",
+    "price": "R$ 462,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
