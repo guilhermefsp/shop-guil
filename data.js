@@ -13,7 +13,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente Zigbee Full Switch Sensação De Tecla Fisica Compativel com Alexa Google Home (4 Teclas)",
     "asin": "B0F4GS69NL",
     "image": "https://m.media-amazon.com/images/I/31Qx+wbhqdL._SS135_.jpg",
-    "price": "R$ 158,00",
+    "price": "R$ 165,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4GS69NL/?tag=guilhermefsp-20",
     "date_added": "2026-05-27"
@@ -22,7 +22,7 @@ const ITEMS = [
     "title": "Philco, 103301040, Multiprocessador, Pmp1600v, 1400W, Vermelho, 127v,",
     "asin": "B07V68WPC9",
     "image": "https://m.media-amazon.com/images/I/41sGPniDSML._SS135_.jpg",
-    "price": "R$ 384,90",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07V68WPC9/?tag=guilhermefsp-20",
     "date_added": "2026-05-07"
@@ -85,7 +85,7 @@ const ITEMS = [
     "title": "Percarbonato de Sódio Removedor de Manchas com Base de Percarbonato de Sódio e Multiuso de Limpeza Eficiente, Econômico Versátil para Lavanderia Limpeza Geral (Design Embalagem pode sofrer variações)",
     "asin": "B0GLHQDVYB",
     "image": "https://m.media-amazon.com/images/I/41ze0lQ8bAL._SS135_.jpg",
-    "price": "R$ 19,90",
+    "price": "R$ 22,90",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLHQDVYB/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 53,99",
+    "price": "R$ 53,19",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 21,59",
+    "price": "R$ 22,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 25,79",
+    "price": "R$ 23,99",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 88,78",
+    "price": "R$ 128,98",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -292,7 +292,7 @@ const ITEMS = [
     "title": "BTF-LIGHTING RGBCCT 5 cores em 1 LED 5050SMD RGBWW RGB + temperatura de cor regulável ajustável 2700K-6500K UL listado 5 m 60LED/m 300LED DC24V fita de luzes multicoloridas IP30 (sem adaptador ou",
     "asin": "B0BBGGRGDL",
     "image": "https://m.media-amazon.com/images/I/41xp45jEKbL._SS135_.jpg",
-    "price": "R$ 189,16",
+    "price": "R$ 191,71",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBGGRGDL/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -373,7 +373,7 @@ const ITEMS = [
     "title": "THIRDREALITY Pacote com 4 luzes noturnas multifuncionais, repetidor Zigbee, 3 em 1 combina um sensor de movimento, um sensor de iluminação e luz noturna colorida RGB, brilho 1-100% ajustável, hub",
     "asin": "B0CX1G833P",
     "image": "https://m.media-amazon.com/images/I/31LjtH2-qBL._SS135_.jpg",
-    "price": "R$ 897,01",
+    "price": "R$ 909,12",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CX1G833P/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -463,7 +463,7 @@ const ITEMS = [
     "title": "ELEGOO Pacote Mercury XS com Estação Separada de Lavagem E Cura para Grandes Modelos Impressos Em Resina 3D, Compatível com Impressoras 3D Saturn E Mars Lcd, com Uma Lâmpada UV Portátil",
     "asin": "B09V19DDNJ",
     "image": "https://m.media-amazon.com/images/I/41gk8Hj44qL._SS135_.jpg",
-    "price": "R$ 1.499,00",
+    "price": "R$ 1.599,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09V19DDNJ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 133,08",
+    "price": "R$ 134,75",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -526,7 +526,7 @@ const ITEMS = [
     "title": "Barfly Jigger estilo japonês, 28 g x 56 g, inoxidável",
     "asin": "B074HNXRZP",
     "image": "https://m.media-amazon.com/images/I/41jLcuqpxfL._SS135_.jpg",
-    "price": "R$ 94,21",
+    "price": "R$ 95,47",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B074HNXRZP/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "Fone de Ouvido Profissional K240 MKII Preto AKG",
     "asin": "B0016MNBAM",
     "image": "https://m.media-amazon.com/images/I/51jpzKr2yQL._SS135_.jpg",
-    "price": "R$ 489,00",
+    "price": "R$ 484,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0016MNBAM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -607,7 +607,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 265,90",
+    "price": "R$ 189,05",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 529,95",
+    "price": "R$ 421,36",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
