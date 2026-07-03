@@ -21,7 +21,7 @@ const ITEMS = [
   {
     "title": "Philco, 103301040, Multiprocessador, Pmp1600v, 1400W, Vermelho, 127v,",
     "asin": "B07V68WPC9",
-    "image": "https://m.media-amazon.com/images/I/41sGPniDSML._SS135_.jpg",
+    "image": "https://m.media-amazon.com/images/I/416g1Olhd5L._SS135_.jpg",
     "price": "R$ 384,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07V68WPC9/?tag=guilhermefsp-20",
@@ -49,7 +49,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 19,85",
+    "price": "R$ 19,50",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -67,7 +67,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "R$ 28,40",
+    "price": "R$ 22,70",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 27,31",
+    "price": "R$ 29,46",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -301,7 +301,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 77,00",
+    "price": "R$ 78,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -310,7 +310,7 @@ const ITEMS = [
     "title": "Ferramentas Madeira Construção Kits Infantil Montessori Brinquedos",
     "asin": "B0DJ57N1WS",
     "image": "https://m.media-amazon.com/images/I/41hVx1+osML._SS135_.jpg",
-    "price": "R$ 112,00",
+    "price": "R$ 106,20",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ57N1WS/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -427,7 +427,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 71,84",
+    "price": "R$ 71,19",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -436,7 +436,7 @@ const ITEMS = [
     "title": "Torneira De Esfera P/Maquina De Lavar Roupa 1/2 X 3/4",
     "asin": "B09GTTY7V8",
     "image": "https://m.media-amazon.com/images/I/312C+2fYP5L._SS135_.jpg",
-    "price": "R$ 19,10",
+    "price": "R$ 17,95",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09GTTY7V8/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -445,7 +445,7 @@ const ITEMS = [
     "title": "Bomba Tira Leite Elétrica Solo™ Medela, bateria interna embutida com carregamento via USB, funil PersonalFit Flex™ e Tecnologia de Extração 2-Phase Expression",
     "asin": "B0CCDSZYMH",
     "image": "https://m.media-amazon.com/images/I/31yYT7awlEL._SS135_.jpg",
-    "price": "R$ 1.195,53",
+    "price": "R$ 799,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCDSZYMH/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 156,74",
+    "price": "R$ 134,75",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -607,7 +607,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 189,05",
+    "price": "R$ 265,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 471,00",
+    "price": "R$ 452,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
