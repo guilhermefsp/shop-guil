@@ -49,7 +49,7 @@ const ITEMS = [
     "title": "Inga - Forma 27X25,2Cm De Cupcake Inga 10622",
     "asin": "B07R19C2KD",
     "image": "https://m.media-amazon.com/images/I/41P-u8ZxXOL._SS135_.jpg",
-    "price": "R$ 19,85",
+    "price": "R$ 19,89",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07R19C2KD/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -67,7 +67,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "R$ 22,70",
+    "price": "R$ 20,43",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -76,7 +76,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/416sJk3LOBL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 27,90",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 24,69",
+    "price": "R$ 20,11",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -166,7 +166,7 @@ const ITEMS = [
     "title": "Arak Habitue Aperitivo 700Ml",
     "asin": "B07W71P4R3",
     "image": "https://m.media-amazon.com/images/I/31cSFGIdTHS._SS135_.jpg",
-    "price": "R$ 52,50",
+    "price": "R$ 51,96",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07W71P4R3/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 34,19",
+    "price": "R$ 35,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -310,7 +310,7 @@ const ITEMS = [
     "title": "Ferramentas Madeira Construção Kits Infantil Montessori Brinquedos",
     "asin": "B0DJ57N1WS",
     "image": "https://m.media-amazon.com/images/I/41hVx1+osML._SS135_.jpg",
-    "price": "",
+    "price": "R$ 106,20",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ57N1WS/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -418,7 +418,7 @@ const ITEMS = [
     "title": "Tomada De Parede Duo Com 2 Entradas Usb Bivolt Jwcom (Branco)",
     "asin": "B0B23B7ZCF",
     "image": "https://m.media-amazon.com/images/I/31zzrMcg4uL._SS135_.jpg",
-    "price": "R$ 37,80",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B23B7ZCF/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -436,7 +436,7 @@ const ITEMS = [
     "title": "Torneira De Esfera P/Maquina De Lavar Roupa 1/2 X 3/4",
     "asin": "B09GTTY7V8",
     "image": "https://m.media-amazon.com/images/I/312C+2fYP5L._SS135_.jpg",
-    "price": "R$ 19,10",
+    "price": "R$ 17,95",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09GTTY7V8/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 147,84",
+    "price": "R$ 125,85",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "Fone de Ouvido Profissional K240 MKII Preto AKG",
     "asin": "B0016MNBAM",
     "image": "https://m.media-amazon.com/images/I/51jpzKr2yQL._SS135_.jpg",
-    "price": "R$ 509,00",
+    "price": "R$ 469,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0016MNBAM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 426,55",
+    "price": "R$ 452,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
