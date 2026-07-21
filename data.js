@@ -31,7 +31,7 @@ const ITEMS = [
     "title": "Dosador Duplo Profissional em Aço Inox Ideal para Drinks Coquetéis e Bebidas em Casa ou Bar (30/60)",
     "asin": "B0GBRY7MVX",
     "image": "https://m.media-amazon.com/images/I/31-NMJHbUyL._SS135_.jpg",
-    "price": "R$ 19,90",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GBRY7MVX/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 32,35",
+    "price": "R$ 32,27",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 44,90",
+    "price": "R$ 55,53",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 20,11",
+    "price": "R$ 20,05",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Kit 5 Lâmpadas AVANT NEO Smart LED 10W E27 Dimerizável RGB Compatível com Alexa e Google Home Controle voz Wifi Casa Inteligente Tuya",
     "asin": "B0FDLM1L2R",
     "image": "https://m.media-amazon.com/images/I/410a5td2JYL._SS135_.jpg",
-    "price": "R$ 189,90",
+    "price": "R$ 179,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLM1L2R/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Emma Colchão Queen Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/4160ve+jZmL._SS135_.jpg",
-    "price": "R$ 1.899,00",
+    "price": "R$ 1.749,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -427,7 +427,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 82,21",
+    "price": "R$ 84,79",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -463,7 +463,7 @@ const ITEMS = [
     "title": "ELEGOO Pacote Mercury XS com Estação Separada de Lavagem E Cura para Grandes Modelos Impressos Em Resina 3D, Compatível com Impressoras 3D Saturn E Mars Lcd, com Uma Lâmpada UV Portátil",
     "asin": "B09V19DDNJ",
     "image": "https://m.media-amazon.com/images/I/41gk8Hj44qL._SS135_.jpg",
-    "price": "R$ 1.424,05",
+    "price": "R$ 1.599,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09V19DDNJ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "Fone de Ouvido Profissional K240 MKII Preto AKG",
     "asin": "B0016MNBAM",
     "image": "https://m.media-amazon.com/images/I/51jpzKr2yQL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 441,73",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0016MNBAM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
