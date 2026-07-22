@@ -13,7 +13,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente Zigbee Full Switch Sensação De Tecla Fisica Compativel com Alexa Google Home (4 Teclas)",
     "asin": "B0F4GS69NL",
     "image": "https://m.media-amazon.com/images/I/31Qx+wbhqdL._SS135_.jpg",
-    "price": "R$ 158,00",
+    "price": "R$ 165,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4GS69NL/?tag=guilhermefsp-20",
     "date_added": "2026-05-27"
@@ -94,7 +94,7 @@ const ITEMS = [
     "title": "Desentupidor de Pias e Ralos Granulado 300g, Diabo Verde",
     "asin": "B07GCX2WKG",
     "image": "https://m.media-amazon.com/images/I/41dD06E6RPL._SS135_.jpg",
-    "price": "R$ 32,27",
+    "price": "R$ 36,07",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07GCX2WKG/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -103,7 +103,7 @@ const ITEMS = [
     "title": "Lâmpada LED Bulbo Foxlux – 12W – 3000K – Luz Amarela – 1080 lm – Base E-27 – Bivolt – Vida média: 25.000h request change Lâmpada LED Bulbo 12W 3000K Bivolt - Luz Quente",
     "asin": "B0CTD3XXPH",
     "image": "https://m.media-amazon.com/images/I/41p0xTjM8SL._SS135_.jpg",
-    "price": "R$ 12,71",
+    "price": "R$ 5,32",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CTD3XXPH/?tag=guilhermefsp-20",
     "date_added": "2026-04-28"
@@ -112,7 +112,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
     "asin": "B08553P1JV",
     "image": "https://m.media-amazon.com/images/I/41YGOC4JD+L._SS135_.jpg",
-    "price": "R$ 24,88",
+    "price": "R$ 23,40",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08553P1JV/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 55,53",
+    "price": "R$ 52,93",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -184,7 +184,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 88,87",
+    "price": "R$ 79,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 42,89",
+    "price": "R$ 44,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor Importado Fireball 750Ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41NBOpisbeL._SS135_.jpg",
-    "price": "R$ 88,78",
+    "price": "R$ 104,98",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 1.298,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -301,7 +301,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 78,00",
+    "price": "R$ 77,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -445,7 +445,7 @@ const ITEMS = [
     "title": "Bomba Tira Leite Elétrica Solo™ Medela, bateria interna embutida com carregamento via USB, funil PersonalFit Flex™ e Tecnologia de Extração 2-Phase Expression",
     "asin": "B0CCDSZYMH",
     "image": "https://m.media-amazon.com/images/I/31yYT7awlEL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 999,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCDSZYMH/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Tramontina Foicinha Para Pasto, Cabo De Madeira 13 Cm",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 46,68",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
