@@ -76,7 +76,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/416sJk3LOBL._SS135_.jpg",
-    "price": "R$ 27,88",
+    "price": "R$ 28,50",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 53,99",
+    "price": "R$ 48,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 22,53",
+    "price": "R$ 22,24",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -175,7 +175,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 109,90",
+    "price": "R$ 119,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -184,7 +184,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 89,90",
+    "price": "R$ 88,48",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 46,99",
+    "price": "R$ 39,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor de whisky com canela Fireball – 750ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41o38rcokAL._SS135_.jpg",
-    "price": "R$ 117,04",
+    "price": "R$ 111,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 39,89",
+    "price": "R$ 41,74",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -256,7 +256,7 @@ const ITEMS = [
     "title": "A & D Diaper Rash Ointment 4 oz. (Pack of 2)",
     "asin": "B00DQD63NG",
     "image": "https://m.media-amazon.com/images/I/31gTT-yPeqL._SS135_.jpg",
-    "price": "R$ 249,00",
+    "price": "R$ 202,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B00DQD63NG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -310,7 +310,7 @@ const ITEMS = [
     "title": "Ferramentas Madeira Construção Kits Infantil Montessori Brinquedos",
     "asin": "B0DJ57N1WS",
     "image": "https://m.media-amazon.com/images/I/41hVx1+osML._SS135_.jpg",
-    "price": "",
+    "price": "R$ 118,00",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ57N1WS/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Kit 5 Lâmpadas AVANT NEO Smart LED 10W E27 Dimerizável RGB Compatível com Alexa e Google Home Controle voz Wifi Casa Inteligente Tuya",
     "asin": "B0FDLM1L2R",
     "image": "https://m.media-amazon.com/images/I/41UYKggbo6L._SS135_.jpg",
-    "price": "R$ 180,40",
+    "price": "R$ 149,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLM1L2R/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -463,7 +463,7 @@ const ITEMS = [
     "title": "ELEGOO Pacote Mercury XS com Estação Separada de Lavagem E Cura para Grandes Modelos Impressos Em Resina 3D, Compatível com Impressoras 3D Saturn E Mars Lcd, com Uma Lâmpada UV Portátil",
     "asin": "B09V19DDNJ",
     "image": "https://m.media-amazon.com/images/I/41gk8Hj44qL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 1.799,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09V19DDNJ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 123,93",
+    "price": "R$ 145,04",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -580,7 +580,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com Cabo Telescópico - MOP7633 - Verde",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 45,90",
+    "price": "R$ 42,05",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 473,58",
+    "price": "R$ 378,86",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
