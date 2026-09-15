@@ -76,7 +76,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/416sJk3LOBL._SS135_.jpg",
-    "price": "R$ 28,50",
+    "price": "R$ 27,81",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 22,24",
+    "price": "R$ 22,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 44,79",
+    "price": "R$ 44,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -292,7 +292,7 @@ const ITEMS = [
     "title": "BTF-LIGHTING RGBCCT 5 cores em 1 LED 5050SMD RGBWW RGB + temperatura de cor regulável ajustável 2700K-6500K UL listado 5 m 60LED/m 300LED DC24V fita de luzes multicoloridas IP30 (sem adaptador ou",
     "asin": "B0BBGGRGDL",
     "image": "https://m.media-amazon.com/images/I/41xp45jEKbL._SS135_.jpg",
-    "price": "R$ 188,77",
+    "price": "R$ 236,60",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBGGRGDL/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -352,7 +352,7 @@ const ITEMS = [
     "date_added": "2026-04-26"
   },
   {
-    "title": "Refletor LED Inteligente 50W Elgin RGB Smart Wifi compatível com Alexa e Google Home",
+    "title": "Refletor Smart LED Elgin 50W Compatível com Alexa e Google Home Bivolt",
     "asin": "B09QCW73S5",
     "image": "https://m.media-amazon.com/images/I/31jcAaNKOqL._SS135_.jpg",
     "price": "R$ 332,40",
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Tramontina Foicinha Para Pasto, Cabo De Madeira 13 Cm",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "R$ 37,90",
+    "price": "R$ 45,62",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -580,7 +580,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com Cabo Telescópico - MOP7633 - Verde",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 38,67",
+    "price": "R$ 38,57",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 479,00",
+    "price": "R$ 514,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
