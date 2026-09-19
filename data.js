@@ -67,7 +67,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "R$ 26,89",
+    "price": "R$ 25,88",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -190,11 +190,11 @@ const ITEMS = [
     "date_added": "2026-04-27"
   },
   {
-    "title": "KiSabor, Bicarbonato de Sódio Puro, Multiuso para Culinária, Confeitaria e Limpeza, 500 Gramas",
+    "title": "KiSabor, Bicarbonato de Sódio Puro, Multiuso para Culinária, 500 Gramas",
     "asin": "B0BRS46BZD",
     "image": "https://m.media-amazon.com/images/I/41qrAublX1L._SS135_.jpg",
     "price": "R$ 11,19",
-    "category": "Casa",
+    "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BRS46BZD/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
   },
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 46,90",
+    "price": "R$ 41,02",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 44,99",
+    "price": "R$ 44,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor de whisky com canela Fireball – 750ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/41o38rcokAL._SS135_.jpg",
-    "price": "R$ 111,09",
+    "price": "R$ 114,24",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -292,7 +292,7 @@ const ITEMS = [
     "title": "BTF-LIGHTING RGBCCT 5 cores em 1 LED 5050SMD RGBWW RGB + temperatura de cor regulável ajustável 2700K-6500K UL listado 5 m 60LED/m 300LED DC24V fita de luzes multicoloridas IP30 (sem adaptador ou",
     "asin": "B0BBGGRGDL",
     "image": "https://m.media-amazon.com/images/I/41xp45jEKbL._SS135_.jpg",
-    "price": "R$ 236,32",
+    "price": "R$ 239,01",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBGGRGDL/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -301,7 +301,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 78,00",
+    "price": "R$ 77,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -391,7 +391,7 @@ const ITEMS = [
     "title": "Kit 5 Lâmpadas AVANT NEO Smart LED 10W E27 Dimerizável RGB Compatível com Alexa e Google Home Controle voz Wifi Casa Inteligente Tuya",
     "asin": "B0FDLM1L2R",
     "image": "https://m.media-amazon.com/images/I/41UYKggbo6L._SS135_.jpg",
-    "price": "R$ 189,90",
+    "price": "R$ 171,38",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0FDLM1L2R/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -454,7 +454,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 149,58",
+    "price": "R$ 148,05",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Tramontina Foicinha Para Pasto, Cabo De Madeira 13 Cm",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "R$ 37,90",
+    "price": "R$ 45,48",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -580,7 +580,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com Cabo Telescópico - MOP7633 - Verde",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 37,80",
+    "price": "R$ 37,29",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
