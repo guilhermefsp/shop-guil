@@ -67,7 +67,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "R$ 25,94",
+    "price": "R$ 25,97",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -112,7 +112,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
     "asin": "B08553P1JV",
     "image": "https://m.media-amazon.com/images/I/41YGOC4JD+L._SS135_.jpg",
-    "price": "R$ 33,17",
+    "price": "R$ 27,38",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08553P1JV/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -184,7 +184,7 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 78,00",
+    "price": "R$ 94,31",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 41,02",
+    "price": "R$ 46,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 49,00",
+    "price": "R$ 43,23",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -283,7 +283,7 @@ const ITEMS = [
     "title": "Kit Roteador Mesh AC1900 TP-Link Deco S7(3-pack), Dual Band 2.4/5 GHz, Conecte até 100+ Dispositivos, Cobertura de até 520M2, 3 Portas Gigabit Ethernet, Funciona com Amazon Alexa, Controle dos Pais",
     "asin": "B0BBV29JXX",
     "image": "https://m.media-amazon.com/images/I/31XSDfBmcUL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 839,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BBV29JXX/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -301,7 +301,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 78,00",
+    "price": "R$ 77,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Tramontina Foicinha Para Pasto, Cabo De Madeira 13 Cm",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "R$ 46,54",
+    "price": "R$ 37,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -607,7 +607,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 241,97",
+    "price": "R$ 250,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -616,7 +616,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 4",
     "asin": "8565484734",
     "image": "https://m.media-amazon.com/images/I/51mASF9VkvL._SS135_.jpg",
-    "price": "R$ 389,00",
+    "price": "R$ 420,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8565484734/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -640,7 +640,7 @@ const ITEMS = [
     "date_added": "2026-04-27"
   },
   {
-    "title": "Absolute Sandman Vol. 5: Edição Definitiva",
+    "title": "Absolute sandman vol. 5: edição definitiva",
     "asin": "8583682925",
     "image": "https://m.media-amazon.com/images/I/41Q0vvHOeUL._SS135_.jpg",
     "price": "",
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 462,11",
+    "price": "R$ 559,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
