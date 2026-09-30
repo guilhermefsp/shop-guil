@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 20,18",
+    "price": "R$ 19,88",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 54,99",
+    "price": "R$ 59,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -310,7 +310,7 @@ const ITEMS = [
     "title": "Ferramentas Madeira Construção Kits Infantil Montessori Brinquedos",
     "asin": "B0DJ57N1WS",
     "image": "https://m.media-amazon.com/images/I/41hVx1+osML._SS135_.jpg",
-    "price": "R$ 118,00",
+    "price": "R$ 148,00",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ57N1WS/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -481,7 +481,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 44,41",
+    "price": "R$ 42,74",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 155,86",
+    "price": "R$ 157,93",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -607,7 +607,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 1",
     "asin": "8573516534",
     "image": "https://m.media-amazon.com/images/I/41rQK83B72L._SS135_.jpg",
-    "price": "R$ 250,00",
+    "price": "R$ 241,97",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8573516534/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 419,00",
+    "price": "R$ 424,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
