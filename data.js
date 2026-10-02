@@ -4,7 +4,7 @@ const ITEMS = [
     "title": "Kit Fita De Led Dual WI-FI Inteligente NovaDigital RGB 10Metros 5m + 5m Compativel Tuya Smart Life Alexa Google Smart",
     "asin": "B0DYF71T4M",
     "image": "https://m.media-amazon.com/images/I/413fKyH6lyL._SS135_.jpg",
-    "price": "R$ 118,00",
+    "price": "",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DYF71T4M/?tag=guilhermefsp-20",
     "date_added": "2026-06-03"
@@ -13,7 +13,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente Zigbee Full Switch Sensação De Tecla Fisica Compativel com Alexa Google Home (4 Teclas)",
     "asin": "B0F4GS69NL",
     "image": "https://m.media-amazon.com/images/I/31Qx+wbhqdL._SS135_.jpg",
-    "price": "",
+    "price": "R$ 161,98",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4GS69NL/?tag=guilhermefsp-20",
     "date_added": "2026-05-27"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 43,90",
+    "price": "R$ 44,62",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -184,13 +184,13 @@ const ITEMS = [
     "title": "Bourbon Whiskey Jim Beam White 1L",
     "asin": "B005HQNCLG",
     "image": "https://m.media-amazon.com/images/I/31xxJTKcmKL._SS135_.jpg",
-    "price": "R$ 78,90",
+    "price": "R$ 74,59",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B005HQNCLG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
   },
   {
-    "title": "KiSabor, Bicarbonato de Sódio Puro, Multiuso para Culinária, 500 Gramas",
+    "title": "KiSabor, Bicarbonato de Sódio Puro, Multiuso para Culinária, 500g",
     "asin": "B0BRS46BZD",
     "image": "https://m.media-amazon.com/images/I/41qrAublX1L._SS135_.jpg",
     "price": "R$ 11,19",
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Aussie Condicionador Btx Effect com Óleo de Jojoba 360 ml",
     "asin": "B09L3539XW",
     "image": "https://m.media-amazon.com/images/I/31yOQGgaN4L._SS135_.jpg",
-    "price": "R$ 42,59",
+    "price": "R$ 40,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09L3539XW/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 41,73",
+    "price": "R$ 47,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 59,99",
+    "price": "R$ 47,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -319,7 +319,7 @@ const ITEMS = [
     "title": "Torre de Aprendizagem Montessori Madeira Mesa Baleia Segura 2em1 Branco Pinus e MDF Laqueado",
     "asin": "B0D6BY5JMP",
     "image": "https://m.media-amazon.com/images/I/31uqwlSpLoL._SS135_.jpg",
-    "price": "R$ 309,90",
+    "price": "R$ 278,91",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B0D6BY5JMP/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "Refletor Smart LED Elgin 50W Compatível com Alexa e Google Home Bivolt",
     "asin": "B09QCW73S5",
     "image": "https://m.media-amazon.com/images/I/31jcAaNKOqL._SS135_.jpg",
-    "price": "R$ 332,40",
+    "price": "R$ 245,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09QCW73S5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -445,7 +445,7 @@ const ITEMS = [
     "title": "Bomba Tira Leite Elétrica Solo™ Medela, bateria interna embutida com carregamento via USB, funil PersonalFit Flex™ e Tecnologia de Extração 2-Phase Expression",
     "asin": "B0CCDSZYMH",
     "image": "https://m.media-amazon.com/images/I/31yYT7awlEL._SS135_.jpg",
-    "price": "R$ 982,24",
+    "price": "R$ 982,21",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCDSZYMH/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 157,93",
+    "price": "R$ 136,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -580,7 +580,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com Cabo Telescópico - MOP7633 - Verde",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 39,00",
+    "price": "R$ 45,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -616,7 +616,7 @@ const ITEMS = [
     "title": "Absolute Sandman - Volume 4",
     "asin": "8565484734",
     "image": "https://m.media-amazon.com/images/I/51mASF9VkvL._SS135_.jpg",
-    "price": "R$ 420,00",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/8565484734/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 424,00",
+    "price": "R$ 420,95",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
