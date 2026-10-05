@@ -85,7 +85,7 @@ const ITEMS = [
     "title": "Percarbonato de Sódio Removedor de Manchas com Base de Percarbonato de Sódio, Barrilha e Sulfato de Sódio e Multiuso (Design Embalagem pode sofrer variações)",
     "asin": "B0GLHQDVYB",
     "image": "https://m.media-amazon.com/images/I/41ze0lQ8bAL._SS135_.jpg",
-    "price": "R$ 22,90",
+    "price": "R$ 19,89",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLHQDVYB/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -112,7 +112,7 @@ const ITEMS = [
     "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
     "asin": "B08553P1JV",
     "image": "https://m.media-amazon.com/images/I/41YGOC4JD+L._SS135_.jpg",
-    "price": "R$ 39,39",
+    "price": "R$ 25,55",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08553P1JV/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 44,12",
+    "price": "R$ 39,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 18,74",
+    "price": "R$ 20,06",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -166,7 +166,7 @@ const ITEMS = [
     "title": "Arak Habitue Aperitivo 700Ml",
     "asin": "B07W71P4R3",
     "image": "https://m.media-amazon.com/images/I/31cSFGIdTHS._SS135_.jpg",
-    "price": "R$ 72,40",
+    "price": "R$ 49,87",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07W71P4R3/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -175,7 +175,7 @@ const ITEMS = [
     "title": "Angostura Bitter Orange Sabor Orange Bitter 100 Ml",
     "asin": "B004EAMI20",
     "image": "https://m.media-amazon.com/images/I/31gEuAYfD0L._SS135_.jpg",
-    "price": "R$ 139,99",
+    "price": "R$ 84,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004EAMI20/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 42,54",
+    "price": "R$ 39,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor de whisky com canela Fireball – 750ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/31IIJ-CGV2L._SS135_.jpg",
-    "price": "R$ 99,98",
+    "price": "R$ 94,98",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -310,7 +310,7 @@ const ITEMS = [
     "title": "Ferramentas Madeira Construção Kits Infantil Montessori Brinquedos",
     "asin": "B0DJ57N1WS",
     "image": "https://m.media-amazon.com/images/I/41hVx1+osML._SS135_.jpg",
-    "price": "R$ 148,00",
+    "price": "",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0DJ57N1WS/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -319,7 +319,7 @@ const ITEMS = [
     "title": "Torre de Aprendizagem Montessori Madeira Mesa Baleia Segura 2em1 Branco Pinus e MDF Laqueado",
     "asin": "B0D6BY5JMP",
     "image": "https://m.media-amazon.com/images/I/31uqwlSpLoL._SS135_.jpg",
-    "price": "R$ 278,91",
+    "price": "R$ 278,89",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B0D6BY5JMP/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -355,7 +355,7 @@ const ITEMS = [
     "title": "Refletor Smart LED Elgin 50W Compatível com Alexa e Google Home Bivolt",
     "asin": "B09QCW73S5",
     "image": "https://m.media-amazon.com/images/I/31jcAaNKOqL._SS135_.jpg",
-    "price": "R$ 332,40",
+    "price": "R$ 184,89",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09QCW73S5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -382,7 +382,7 @@ const ITEMS = [
     "title": "Painel de Embutir Quadrado Smart Elgin 18W Compatível com Alexa e Google Home Bivolt",
     "asin": "B08TQGGTCC",
     "image": "https://m.media-amazon.com/images/I/31DeXLj-wuL._SS135_.jpg",
-    "price": "R$ 84,90",
+    "price": "R$ 76,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B08TQGGTCC/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Emma Colchão Queen Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/4160ve+jZmL._SS135_.jpg",
-    "price": "R$ 1.899,00",
+    "price": "R$ 1.729,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -427,7 +427,7 @@ const ITEMS = [
     "title": "Smart Plug Max Wi-Fi Positivo Casa Inteligente, 16A, NBR 14136, Configuração Rápida, 1600W Bivolt – Compatível com Alexa",
     "asin": "B0BNSVWWDR",
     "image": "https://m.media-amazon.com/images/I/41+kfD6uGhL._SS135_.jpg",
-    "price": "R$ 59,00",
+    "price": "",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0BNSVWWDR/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -445,7 +445,7 @@ const ITEMS = [
     "title": "Bomba Tira Leite Elétrica Solo™ Medela, bateria interna embutida com carregamento via USB, funil PersonalFit Flex™ e Tecnologia de Extração 2-Phase Expression",
     "asin": "B0CCDSZYMH",
     "image": "https://m.media-amazon.com/images/I/31yYT7awlEL._SS135_.jpg",
-    "price": "R$ 982,18",
+    "price": "R$ 849,15",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCDSZYMH/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -454,7 +454,7 @@ const ITEMS = [
     "title": "Luda: A Novel",
     "asin": "059335530X",
     "image": "https://m.media-amazon.com/images/I/4155IA0F2hL._SS135_.jpg",
-    "price": "R$ 159,42",
+    "price": "R$ 153,88",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/059335530X/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -463,7 +463,7 @@ const ITEMS = [
     "title": "ELEGOO Pacote Mercury XS com Estação Separada de Lavagem E Cura para Grandes Modelos Impressos Em Resina 3D, Compatível com Impressoras 3D Saturn E Mars Lcd, com Uma Lâmpada UV Portátil",
     "asin": "B09V19DDNJ",
     "image": "https://m.media-amazon.com/images/I/41gk8Hj44qL._SS135_.jpg",
-    "price": "R$ 1.699,00",
+    "price": "R$ 1.619,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B09V19DDNJ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -526,7 +526,7 @@ const ITEMS = [
     "title": "Barfly Jigger estilo japonês, 28 g x 56 g, inoxidável",
     "asin": "B074HNXRZP",
     "image": "https://m.media-amazon.com/images/I/41jLcuqpxfL._SS135_.jpg",
-    "price": "R$ 91,53",
+    "price": "R$ 83,60",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B074HNXRZP/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -589,7 +589,7 @@ const ITEMS = [
     "title": "Roda Abdominal Muvin Basics – Roda Para Exercícios Abdominais - Equipamento Para Treinamento de Força no Abdômem - Treino Funcional – Exercícios – Academia - Crosstraning",
     "asin": "B07PJLK5TX",
     "image": "https://m.media-amazon.com/images/I/411ef0zA1NL._SS135_.jpg",
-    "price": "R$ 47,21",
+    "price": "R$ 43,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07PJLK5TX/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
