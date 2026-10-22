@@ -13,7 +13,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente Zigbee Full Switch Sensação De Tecla Fisica Compativel com Alexa Google Home (4 Teclas)",
     "asin": "B0F4GS69NL",
     "image": "https://m.media-amazon.com/images/I/31Qx+wbhqdL._SS135_.jpg",
-    "price": "R$ 161,98",
+    "price": "R$ 165,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0F4GS69NL/?tag=guilhermefsp-20",
     "date_added": "2026-05-27"
@@ -67,7 +67,7 @@ const ITEMS = [
     "title": "WOLFF - Descascador de Legumes Em Liga de Zinco com Cabo Antiderrapante 18cm",
     "asin": "B0CH8YMR8M",
     "image": "https://m.media-amazon.com/images/I/211mMqupkRL._SS135_.jpg",
-    "price": "R$ 24,90",
+    "price": "R$ 22,09",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CH8YMR8M/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -76,7 +76,7 @@ const ITEMS = [
     "title": "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
     "asin": "B07YCQ64HM",
     "image": "https://m.media-amazon.com/images/I/416sJk3LOBL._SS135_.jpg",
-    "price": "R$ 24,89",
+    "price": "R$ 28,00",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07YCQ64HM/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 42,00",
+    "price": "R$ 44,62",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -148,7 +148,7 @@ const ITEMS = [
     "title": "Parodontax Creme, Dental Para Prevenção De Sangramento Das Gengivas, Extra Fresh, Com Flúor, 90g",
     "asin": "B07FYVHBY5",
     "image": "https://m.media-amazon.com/images/I/31BGDxsPwhL._SS135_.jpg",
-    "price": "R$ 22,39",
+    "price": "R$ 22,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07FYVHBY5/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Aussie Condicionador Btx Effect com Óleo de Jojoba 360 ml",
     "asin": "B09L3539XW",
     "image": "https://m.media-amazon.com/images/I/31yOQGgaN4L._SS135_.jpg",
-    "price": "R$ 41,99",
+    "price": "R$ 42,59",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09L3539XW/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 50,99",
+    "price": "R$ 42,50",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor de whisky com canela Fireball – 750ml",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/31IIJ-CGV2L._SS135_.jpg",
-    "price": "R$ 104,37",
+    "price": "R$ 99,89",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 70,11",
+    "price": "R$ 77,90",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -301,7 +301,7 @@ const ITEMS = [
     "title": "Interruptor Inteligente ZigBee 3 Botões Touch NovaDigital Branco Compatível Alexa Tuya Smart Life",
     "asin": "B0B4TYHQD5",
     "image": "https://m.media-amazon.com/images/I/21eOU5MfpNL._SS135_.jpg",
-    "price": "R$ 72,98",
+    "price": "",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0B4TYHQD5/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -445,7 +445,7 @@ const ITEMS = [
     "title": "Bomba Tira-Leite Elétrica Medela Solo, USB | Bateria interna recarregável, Funil PersonalFit Flex, Tecnologia 2-Phase Expression",
     "asin": "B0CCDSZYMH",
     "image": "https://m.media-amazon.com/images/I/31yYT7awlEL._SS135_.jpg",
-    "price": "R$ 849,15",
+    "price": "R$ 1.085,70",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CCDSZYMH/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -517,7 +517,7 @@ const ITEMS = [
     "title": "Imbibe! Updated and Revised Edition: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to \"Professor\" Jerry Thomas, Pioneer of ... Jerry Thomas, Pioneer of the American Bar",
     "asin": "0399172610",
     "image": "https://m.media-amazon.com/images/I/51sSeL3AHpL._SS135_.jpg",
-    "price": "R$ 155,27",
+    "price": "R$ 155,22",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/0399172610/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -589,7 +589,7 @@ const ITEMS = [
     "title": "Roda Abdominal Muvin Basics – Roda Para Exercícios Abdominais - Equipamento Para Treinamento de Força no Abdômem - Treino Funcional – Exercícios – Academia - Crosstraning",
     "asin": "B07PJLK5TX",
     "image": "https://m.media-amazon.com/images/I/411ef0zA1NL._SS135_.jpg",
-    "price": "R$ 39,52",
+    "price": "R$ 35,81",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07PJLK5TX/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
