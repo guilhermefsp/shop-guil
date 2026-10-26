@@ -85,7 +85,7 @@ const ITEMS = [
     "title": "Percarbonato de Sódio Removedor de Manchas com Base de Percarbonato de Sódio, Barrilha e Sulfato de Sódio e Multiuso (Design Embalagem pode sofrer variações)",
     "asin": "B0GLHQDVYB",
     "image": "https://m.media-amazon.com/images/I/41ze0lQ8bAL._SS135_.jpg",
-    "price": "R$ 20,25",
+    "price": "R$ 22,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0GLHQDVYB/?tag=guilhermefsp-20",
     "date_added": "2026-04-30"
@@ -130,7 +130,7 @@ const ITEMS = [
     "title": "Aperitivo Aperol 750ml",
     "asin": "B07HM62BR7",
     "image": "https://m.media-amazon.com/images/I/31bGslTlTYL._SS135_.jpg",
-    "price": "R$ 43,90",
+    "price": "R$ 44,62",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07HM62BR7/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/3132ZHC-SHL._SS135_.jpg",
-    "price": "R$ 20,06",
+    "price": "R$ 22,99",
     "category": "Olívia",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -220,7 +220,7 @@ const ITEMS = [
     "title": "Vermute Martini Extra Dry 750ml",
     "asin": "B07XRZPB7B",
     "image": "https://m.media-amazon.com/images/I/41QnNBA92QL._SS135_.jpg",
-    "price": "R$ 44,79",
+    "price": "R$ 44,36",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XRZPB7B/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -247,7 +247,7 @@ const ITEMS = [
     "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente, Iluminação Branca (Quente e Fria) e RGB (Até 16 Milhões de Cores), 9W, 806 Lúmens, LED, Bivolt, Compatível com Alexa e Google Assistente",
     "asin": "B082FTRR76",
     "image": "https://m.media-amazon.com/images/I/41Ci1-6wUuL._SS135_.jpg",
-    "price": "R$ 77,90",
+    "price": "R$ 59,99",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B082FTRR76/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -409,7 +409,7 @@ const ITEMS = [
     "title": "Emma Colchão Queen Duo Comfort - 158x198x18 cm, Conforto de Dupla Face, Suporte ideal para o corpo, Alta Durabilidade, Capa Lavável, 100 Noites de Teste, 10 anos de garantia",
     "asin": "B08YKC39Y7",
     "image": "https://m.media-amazon.com/images/I/4160ve+jZmL._SS135_.jpg",
-    "price": "R$ 1.899,00",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B08YKC39Y7/?tag=guilhermefsp-20",
     "date_added": "2026-04-26"
@@ -553,7 +553,7 @@ const ITEMS = [
     "title": "FONE DE OUVIDO PROFISSIONAL AKG K240 | Transdutores XXL, cabo OFC destacável, plugues banhados a ouro, mistura, masterização, monitoramento",
     "asin": "B0016MNBAM",
     "image": "https://m.media-amazon.com/images/I/51jpzKr2yQL._SS135_.jpg",
-    "price": "R$ 471,99",
+    "price": "R$ 489,00",
     "category": "Tecnologia",
     "affiliate_url": "https://www.amazon.com.br/dp/B0016MNBAM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -571,7 +571,7 @@ const ITEMS = [
     "title": "Flash Limp Refil Microfibra para Mop Flat Chenile Compatível com Modelos (ref.: Mop7633 Mop767) Rmop7633",
     "asin": "B078NDST2N",
     "image": "https://m.media-amazon.com/images/I/51EVazFdgpL._SS135_.jpg",
-    "price": "R$ 32,54",
+    "price": "R$ 27,99",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B078NDST2N/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -580,7 +580,7 @@ const ITEMS = [
     "title": "Flash Limp - Mop Flat Chenile com Cabo Telescópico - MOP7633 - Verde",
     "asin": "B0771PMWWQ",
     "image": "https://m.media-amazon.com/images/I/31zwaO4f0qL._SS135_.jpg",
-    "price": "R$ 45,90",
+    "price": "R$ 40,72",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0771PMWWQ/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -589,7 +589,7 @@ const ITEMS = [
     "title": "Roda Abdominal Muvin Basics – Roda Para Exercícios Abdominais - Equipamento Para Treinamento de Força no Abdômem - Treino Funcional – Exercícios – Academia - Crosstraning",
     "asin": "B07PJLK5TX",
     "image": "https://m.media-amazon.com/images/I/411ef0zA1NL._SS135_.jpg",
-    "price": "R$ 35,76",
+    "price": "R$ 35,77",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07PJLK5TX/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
