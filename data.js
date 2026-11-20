@@ -40,7 +40,7 @@ const ITEMS = [
     "title": "Seagers Gin Negroni 980Ml",
     "asin": "B07XS7S64S",
     "image": "https://m.media-amazon.com/images/I/31tce21ltuL._SS135_.jpg",
-    "price": "R$ 53,50",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B07XS7S64S/?tag=guilhermefsp-20",
     "date_added": "2026-05-01"
@@ -157,7 +157,7 @@ const ITEMS = [
     "title": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML | Limpeza glicerinada para bebês",
     "asin": "B07ZHGT9ZT",
     "image": "https://m.media-amazon.com/images/I/31os5epn2cL._SS135_.jpg",
-    "price": "R$ 22,89",
+    "price": "R$ 22,99",
     "category": "Casa",
     "affiliate_url": "https://www.amazon.com.br/dp/B07ZHGT9ZT/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -202,7 +202,7 @@ const ITEMS = [
     "title": "Aussie Condicionador Btx Effect com Óleo de Jojoba 360 ml",
     "asin": "B09L3539XW",
     "image": "https://m.media-amazon.com/images/I/31yOQGgaN4L._SS135_.jpg",
-    "price": "R$ 43,67",
+    "price": "R$ 43,17",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B09L3539XW/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -211,7 +211,7 @@ const ITEMS = [
     "title": "Aperitivo Bitter Campari 748ml",
     "asin": "B0CPFJMNZB",
     "image": "https://m.media-amazon.com/images/I/31blnJEXZ8L._SS135_.jpg",
-    "price": "R$ 49,48",
+    "price": "R$ 47,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B0CPFJMNZB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -238,7 +238,7 @@ const ITEMS = [
     "title": "Licor de whisky com canela Fireball – 750ml | Fireball Cinnamon Whisky Licor, whisky canadense com canela real, 33% vol, 750ml, marca de shot nº 1 da América! Sirva gelado",
     "asin": "B004CYZ7ZI",
     "image": "https://m.media-amazon.com/images/I/31IIJ-CGV2L._SS135_.jpg",
-    "price": "R$ 79,90",
+    "price": "R$ 78,90",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B004CYZ7ZI/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -256,7 +256,7 @@ const ITEMS = [
     "title": "A & D Diaper Rash Ointment 4 oz. (Pack of 2)",
     "asin": "B00DQD63NG",
     "image": "https://m.media-amazon.com/images/I/31gTT-yPeqL._SS135_.jpg",
-    "price": "R$ 289,00",
+    "price": "R$ 279,00",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B00DQD63NG/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -481,7 +481,7 @@ const ITEMS = [
     "title": "Tesoura para Cerca Viva, Tramontina, com Lâmina Metálica e Cabo de Madeira",
     "asin": "B076M8NPMM",
     "image": "https://m.media-amazon.com/images/I/31pHAMAhQvL._SS135_.jpg",
-    "price": "R$ 44,90",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B076M8NPMM/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -499,7 +499,7 @@ const ITEMS = [
     "title": "Foicinha para Pasto Cabo de Madeira 13Cm Tramontina",
     "asin": "B001P5N12S",
     "image": "https://m.media-amazon.com/images/I/21Kcb2kd6HL._SS135_.jpg",
-    "price": "R$ 29,90",
+    "price": "R$ 46,34",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B001P5N12S/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
@@ -652,7 +652,7 @@ const ITEMS = [
     "title": "Vitrola Chrome Brown com Usb e Bluetooth, Bivolt",
     "asin": "B081ZB6XRB",
     "image": "https://m.media-amazon.com/images/I/31h9QVow9FL._SS135_.jpg",
-    "price": "R$ 378,86",
+    "price": "",
     "category": "Outros",
     "affiliate_url": "https://www.amazon.com.br/dp/B081ZB6XRB/?tag=guilhermefsp-20",
     "date_added": "2026-04-27"
